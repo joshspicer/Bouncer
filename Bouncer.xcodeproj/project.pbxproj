@@ -765,7 +765,7 @@
 			buildSettings = {
 				CODE_SIGN_ENTITLEMENTS = SMSFilter/SMSFilter.entitlements;
 				CODE_SIGN_STYLE = Automatic;
-				DEVELOPMENT_TEAM = JM9222EF99;
+				DEVELOPMENT_TEAM = N7C8DEK852;
 				INFOPLIST_FILE = SMSFilter/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
@@ -773,7 +773,7 @@
 					"@executable_path/../../Frameworks",
 				);
 				MARKETING_VERSION = 2.2.1;
-				PRODUCT_BUNDLE_IDENTIFIER = com.banshai.bouncer.smsfilter;
+				PRODUCT_BUNDLE_IDENTIFIER = com.joshspicer.bouncer.smsfilter;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SKIP_INSTALL = YES;
 				SWIFT_VERSION = 5.0;
@@ -787,7 +787,7 @@
 				CODE_SIGN_ENTITLEMENTS = SMSFilter/SMSFilter.entitlements;
 				CODE_SIGN_IDENTITY = "Apple Development";
 				CODE_SIGN_STYLE = Automatic;
-				DEVELOPMENT_TEAM = JM9222EF99;
+				DEVELOPMENT_TEAM = N7C8DEK852;
 				INFOPLIST_FILE = SMSFilter/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
@@ -795,7 +795,7 @@
 					"@executable_path/../../Frameworks",
 				);
 				MARKETING_VERSION = 2.2.1;
-				PRODUCT_BUNDLE_IDENTIFIER = com.banshai.bouncer.smsfilter;
+				PRODUCT_BUNDLE_IDENTIFIER = com.joshspicer.bouncer.smsfilter;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				PROVISIONING_PROFILE_SPECIFIER = "";
 				SKIP_INSTALL = YES;
@@ -933,7 +933,7 @@
 				CODE_SIGN_STYLE = Automatic;
 				CURRENT_PROJECT_VERSION = 135;
 				DEVELOPMENT_ASSET_PATHS = "\"Bouncer/Preview Content\"";
-				DEVELOPMENT_TEAM = JM9222EF99;
+				DEVELOPMENT_TEAM = N7C8DEK852;
 				ENABLE_PREVIEWS = YES;
 				INFOPLIST_FILE = Bouncer/Info.plist;
 				IPHONEOS_DEPLOYMENT_TARGET = 15.0;
@@ -942,7 +942,7 @@
 					"@executable_path/Frameworks",
 				);
 				MARKETING_VERSION = 2.2.1;
-				PRODUCT_BUNDLE_IDENTIFIER = com.banshai.bouncer;
+				PRODUCT_BUNDLE_IDENTIFIER = com.joshspicer.bouncer;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				PROVISIONING_PROFILE_SPECIFIER = "";
 				SWIFT_VERSION = 5.0;
@@ -961,7 +961,7 @@
 				CODE_SIGN_STYLE = Automatic;
 				CURRENT_PROJECT_VERSION = 135;
 				DEVELOPMENT_ASSET_PATHS = "\"Bouncer/Preview Content\"";
-				DEVELOPMENT_TEAM = JM9222EF99;
+				DEVELOPMENT_TEAM = N7C8DEK852;
 				ENABLE_PREVIEWS = YES;
 				INFOPLIST_FILE = Bouncer/Info.plist;
 				IPHONEOS_DEPLOYMENT_TARGET = 15.0;
@@ -970,7 +970,7 @@
 					"@executable_path/Frameworks",
 				);
 				MARKETING_VERSION = 2.2.1;
-				PRODUCT_BUNDLE_IDENTIFIER = com.banshai.bouncer;
+				PRODUCT_BUNDLE_IDENTIFIER = com.joshspicer.bouncer;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				PROVISIONING_PROFILE_SPECIFIER = "";
 				SWIFT_VERSION = 5.0;
@@ -984,7 +984,7 @@
 				ALWAYS_EMBED_SWIFT_STANDARD_LIBRARIES = YES;
 				BUNDLE_LOADER = "$(TEST_HOST)";
 				CODE_SIGN_STYLE = Automatic;
-				DEVELOPMENT_TEAM = JM9222EF99;
+				DEVELOPMENT_TEAM = "";
 				INFOPLIST_FILE = BouncerTests/Info.plist;
 				IPHONEOS_DEPLOYMENT_TARGET = 15.0;
 				LD_RUNPATH_SEARCH_PATHS = (
@@ -1006,7 +1006,7 @@
 				ALWAYS_EMBED_SWIFT_STANDARD_LIBRARIES = YES;
 				BUNDLE_LOADER = "$(TEST_HOST)";
 				CODE_SIGN_STYLE = Automatic;
-				DEVELOPMENT_TEAM = JM9222EF99;
+				DEVELOPMENT_TEAM = "";
 				INFOPLIST_FILE = BouncerTests/Info.plist;
 				IPHONEOS_DEPLOYMENT_TARGET = 15.0;
 				LD_RUNPATH_SEARCH_PATHS = (
@@ -1028,7 +1028,7 @@
 				ALWAYS_EMBED_SWIFT_STANDARD_LIBRARIES = YES;
 				CLANG_ENABLE_MODULES = YES;
 				CODE_SIGN_STYLE = Automatic;
-				DEVELOPMENT_TEAM = JM9222EF99;
+				DEVELOPMENT_TEAM = "";
 				INFOPLIST_FILE = BouncerUITests/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
@@ -1050,7 +1050,7 @@
 				ALWAYS_EMBED_SWIFT_STANDARD_LIBRARIES = YES;
 				CLANG_ENABLE_MODULES = YES;
 				CODE_SIGN_STYLE = Automatic;
-				DEVELOPMENT_TEAM = JM9222EF99;
+				DEVELOPMENT_TEAM = "";
 				INFOPLIST_FILE = BouncerUITests/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
